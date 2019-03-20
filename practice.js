@@ -29,7 +29,7 @@ alert(me.name)
   Have the values to those keys be your favorite thing in that category.
 */
 
-let favoriteThing = {
+let favoriteThings = {
   band: "Imagine Dragons",
   food: "Pizza",
   person: "KayLin",
@@ -44,7 +44,7 @@ let favoriteThing = {
   After you've made your object, add another key named 'car' with the value being your favorite car and then another key named 'brand' with the value being your favorite brand.
 */
 
-favoriteThing.car = "Cars that work"
+favoriteThings.car = "Cars that work"
 
 
 
@@ -52,7 +52,7 @@ favoriteThing.car = "Cars that work"
   Now change the value of the food key in your favoriteThings object to be 'Chicken Nuggets' and change the value of the book key in your favoriteThings object to be 'Harry Potter'.
 */
 
-favoriteThing.food = "Chicken Nuggets"
+favoriteThings.food = "Chicken Nuggets"
 
 
 
