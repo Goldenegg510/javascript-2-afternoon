@@ -45,7 +45,7 @@ let favoriteThings = {
 */
 
 favoriteThings.car = "Cars that work"
-
+favoriteThings.brand = "Stantt"
 
 
 /*
@@ -53,7 +53,7 @@ favoriteThings.car = "Cars that work"
 */
 
 favoriteThings.food = "Chicken Nuggets"
-
+favoriteThings.book = "Harry Potter"
 
 
 ////////// PROBLEM 3 //////////
