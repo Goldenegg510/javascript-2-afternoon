@@ -167,9 +167,11 @@ methodCollection.logHello()
 */
 
 function makePerson(name, birthday, ssn){
-  let newObj = {name: name,
-  birthday: birthday,
-ssn: ssn}
+  let newObj = {
+    name: name,
+    birthday: birthday,
+    ssn: ssn
+  }
 return newObj
 }
 
@@ -183,9 +185,11 @@ return newObj
 */
 
 function makeCard(cardNumber, expirationDate, securityCode){
-  let card = {cardNumber: cardNumber,
-  expirationDate: expirationDate,
-  securityCode: securityCode}
+  let card = {
+    cardNumber: cardNumber,
+    expirationDate: expirationDate,
+    securityCode: securityCode
+  }
   return card
 }
 
